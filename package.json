@@ -1,5 +1,6 @@
 {
   "name": "libvorbis.js",
+  "version": "0.0.1",
   "description": "",
   "repository": {
       "type": "git",
